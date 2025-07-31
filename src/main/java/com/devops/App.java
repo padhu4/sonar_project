@@ -1,4 +1,4 @@
-package com.devops.practice;
+package com.devops;
 
 /**
  * Hello world!
